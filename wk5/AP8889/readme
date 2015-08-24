@@ -1,0 +1,3 @@
+Week 5 data
+
+The zip files contain the data that you need to decompress and index. Note, data is split into two directories to comply with GitHub file size limits; however when you decompress, put all data (i.e. the individual files, without folder nesting) into a unique folder (AP8889). This will avoid problem with the collection.spec file. 
